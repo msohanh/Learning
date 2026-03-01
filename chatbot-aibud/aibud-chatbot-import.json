@@ -1,0 +1,75 @@
+{
+  "source": "https://aibud.ca/",
+  "tone": "Friendly. Optional light references to 80s and 90s Hollywood and Bollywood blockbusters, rock, pop, and world hit songs. Clear and helpful first; references are seasoning.",
+  "company_summary": "AI Buddy Catalyst Labs is an AI strategy firm that blends consulting and implementation. We help tech founders and content creators unblock tech dev, ops, and GTM with AI plus human expertise. We take only a couple of clients at a time so you get real attention. We focus on custom, documented, maintainable work and stick around after launch. Investment typically starts around $7.5K+ for strategy and systems that last. Best fit: founders in momentum who have budget and want a partner.",
+  "suggested_questions": [
+    "What does AI Buddy do?",
+    "Who is it for?",
+    "What is DocDirector?",
+    "How much does it cost?",
+    "How do I get started?",
+    "What integrations do you support?",
+    "How are you different from other agencies?",
+    "How can I contact you?"
+  ],
+  "faq": [
+    {
+      "q": "What does AI Buddy do?",
+      "a": "We're an AI strategy firm for tech founders and content creators. We help you unblock tech, ops, and GTM with a mix of AI and human expertise—custom work, clear docs, and support after launch. Think of us as your growth co-pilot; we take only a few clients so you get the focus you deserve."
+    },
+    {
+      "q": "Who is AI Buddy for?",
+      "a": "Founders and teams in momentum who have some budget and want quality and partnership. Not for pure price-shoppers or \"we need 47 things by Friday\"—we're built for people who want something that lasts, not a one-hit wonder."
+    },
+    {
+      "q": "What is DocDirector?",
+      "a": "Our business-docs agent for startups: data rooms, strategic plans, dashboards, pitch decks, SOWs—the stuff that makes you look ready for the big meeting. It's powered by top-tier AI and a solid onboarding process. Best for software and professional-services firms. There's a waitlist; we approve users after a call. You can join the waitlist or book a call on our site."
+    },
+    {
+      "q": "How much does it cost?",
+      "a": "Investment typically starts around $7.5K+ for strategy and systems that last. Exact scope and pricing depend on your project—best to book a call so we can give you something that fits your goals."
+    },
+    {
+      "q": "How are you different from other agencies or dev shops?",
+      "a": "We cap active clients so you get real attention. We deliver custom, documented, maintainable work and stick around after launch. We also push back when it helps—no \"yes sir\" to everything. We're not the cheapest; we're the \"blockbuster that actually delivers\" option."
+    },
+    {
+      "q": "What integrations do you support?",
+      "a": "We can connect or build with ClickUp, Google Calendar, Gmail, Slack, Stripe, QuickBooks, Telegram, Claude, ChatGPT, Brevo, and more. If you're already on SaaS tools, we can augment your workflows."
+    },
+    {
+      "q": "How do I get started?",
+      "a": "Easiest move: book a call from our site (aibud.ca). For DocDirector, you can join the waitlist and we'll follow up after a conversation."
+    },
+    {
+      "q": "Do you do one-off projects or only retainer?",
+      "a": "We do both strategy and implementation; engagement shape depends on what you need. Book a call and we'll outline options that fit."
+    },
+    {
+      "q": "Where are you based?",
+      "a": "We're Canadian; our AI Triage and Deployment work is Canadian compliant. We work with clients globally."
+    },
+    {
+      "q": "How can I contact you?",
+      "a": "Visit aibud.ca and use \"Book a Call\" or the contact options in the footer."
+    }
+  ],
+  "products": [
+    {
+      "name": "DocDirector",
+      "oneliner": "Business doc agent for startups: data rooms, strategic plans, dashboards, pitch decks, SOWs. Waitlist; best for software and professional-services firms."
+    },
+    {
+      "name": "AI Triage and Deployment",
+      "oneliner": "Canadian-compliant help to spot gaps in AI practices (Ops and GTM) and deploy AI responsibly."
+    },
+    {
+      "name": "Custom APIs and MCPs",
+      "oneliner": "Connect or build with ClickUp, Gmail, Slack, Stripe, QuickBooks, Claude, ChatGPT, Brevo, and more."
+    }
+  ],
+  "cta": {
+    "book_call": "Book a call at aibud.ca",
+    "docdirector_waitlist": "Join the DocDirector waitlist at aibud.ca"
+  }
+}
